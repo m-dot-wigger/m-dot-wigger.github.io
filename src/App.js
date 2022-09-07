@@ -8,11 +8,11 @@ function App() {
         <img src={bomb} className="App-logo" alt="bomb" />
         <a
           className="App-link"
-          href="https://www.youtube.com/watch?v=oHg5SJYRHA0"
+          href="https://www.redhat.com/en/topics/devops/what-is-ci-cd"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Who needs automation! Manual deploys for the win!
+          From local source code to fully tested and deployed application in a single push
         </a>
       </header>
     </div>
